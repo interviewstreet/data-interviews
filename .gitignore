@@ -2,4 +2,4 @@
 metastore_db
 venv
 *.log
-DS_Store
+.DS_Store
